@@ -25,4 +25,19 @@ public class Zythian extends Patron implements FeedingInterface
     {
 
     } // eatPatron
+
+    public void eatDish(int energy, char type) throws AsphyxiationException, GorgingException 
+    {
+
+    }
+
+    public void eatScarion(int energy) throws GorgingException 
+    {
+
+    }
+
+    public void eatZythian(int energy) throws AsphyxiationException, GorgingException 
+    {
+
+    }
 }
